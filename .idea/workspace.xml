@@ -34,6 +34,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/79381/IdeaProjects/task2_1_3&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -70,6 +71,9 @@
       <workItem from="1699274423446" duration="190000" />
       <workItem from="1699274620412" duration="142000" />
       <workItem from="1699274996045" duration="287000" />
+      <workItem from="1699275290483" duration="198000" />
+      <workItem from="1699275494597" duration="120000" />
+      <workItem from="1699275620641" duration="421000" />
     </task>
     <servers />
   </component>
